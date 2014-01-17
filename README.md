@@ -7,4 +7,3 @@ While working on our Main Project on Foundation by Zurb, I have got a notificati
 
 Offer me a coffee, I can make it better as wordpress theme or android app.;)
 
-Just spend 2 hours for this style..
